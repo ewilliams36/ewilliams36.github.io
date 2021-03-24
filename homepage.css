@@ -1,0 +1,16 @@
+body {
+  background-color: lavenderblush;
+  font-family: Helvetica, Verdana, sans-serif;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+  nav {
+    font-family: Georgia, Garamond, serif;
+    color: darkred;
+  }
+a {
+  text-decoration: none;
+  color: darkred;
+}
